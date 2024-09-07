@@ -7,7 +7,7 @@ def sum_of_squares(n):
         return n**2 + sum_of_squares(n - 1)
 
 
-n = int(input("Enter a natural number n: "))
+n = int(input("raqami  n-ro vorid kun : "))
 
 
 result = sum_of_squares(n)

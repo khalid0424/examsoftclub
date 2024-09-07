@@ -1,0 +1,9 @@
+Контейнерҳо дар Python ин сохторҳое мебошанд,
+ки маълумотро нигоҳ медоранд ва барои идоракунии 
+коллексияҳои маълумот истифода мешаванд
+   Дар Python контейнерҳои маъмул инҳоянд:
+  1. List        = my_list = [1, 2, 3, 4, 5]
+  2. Tuple       = my_tuple = (1, 2, 3, 4, 5)
+  3. Dictionary  = my_dict = {'name': 'Alice', 'age': 25, 'city': 'New York'}
+  4. Set         = my_set = {1, 2, 3, 4, 5}
+  6. string      = my_string = "Hello, world!"
